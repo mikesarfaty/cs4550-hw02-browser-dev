@@ -1,0 +1,37 @@
+#po2 {
+    width: 15%;
+    border: 1px solid DarkGray;
+    font-size: 15;
+}
+
+tr:nth-child(even) {
+    background-color: LightGray;
+}
+
+td {
+    border: 2px solid black;
+    padding: 5px;
+}
+
+tr:first-child {
+    background-color: green
+}
+
+#q {
+    color: yellow
+}
+#u {
+    color: blue
+}
+#o {
+    color: red
+}
+#k1 {
+    color: green
+}
+#k2 {
+    color: orange
+}
+#a {
+    color: purple
+}

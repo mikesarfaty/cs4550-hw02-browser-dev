@@ -1,0 +1,50 @@
+button {
+  background-color: #0e821f;
+  font-size: 15px;
+  border: 2px solid #0a6317;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  display: inline-block;
+}
+
+#total {
+    height: 50px;
+    text-indent: 5px;
+    width: 196px;
+    background-color: #169929;
+    text-align: left center;
+    font-size: 40px;
+    border: 2px solid #0a6317;
+    display: inline-block;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.row1 {
+    float: left;
+}
+.row2 {
+    float: left;
+}
+.row3 {
+    float: left;
+}
+.row4 {
+    float: left;
+}
+.row1:first-child {
+    clear: left
+}
+.row2:first-child {
+    clear: left
+}
+.row3:first-child {
+    clear: left
+}
+.row4:first-child {
+    clear: left
+}
